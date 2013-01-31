@@ -1,14 +1,15 @@
-1,toxi-taxi
-2,fusilados por la cruz roja
-3,un poco de amor frances
-4,mi perro dinamita
-5,blues de la artilleria
-6,fuegos de octubre
-7,preso en mi cuidad
-8,musica para pastillas
-9,semen-up
-10,divina tv führer
-11,motor psico
-12,jijiji
-13,cancion para naufragios
-14,ya nadie va a escuchar tu remera
+idCancion;cancion
+1;toxi-taxi
+2;fusilados por la cruz roja
+3;un poco de amor frances
+4;mi perro dinamita
+5;blues de la artilleria
+6;fuegos de octubre
+7;preso en mi cuidad
+8;musica para pastillas
+9;semen-up
+10;divina tv führer
+11;motor psico
+12;jijiji
+13;cancion para naufragios
+14;ya nadie va a escuchar tu remera
