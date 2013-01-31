@@ -1,0 +1,14 @@
+<slave_config>  
+  <slaveserver>    
+    <name>slave1</name>    
+    <hostname>localhost</hostname>    
+    <port>8088</port>    
+  </slaveserver>  
+  <services>  
+    <service>    
+      <name>listaPersonas</name>     
+      <filename>/home/mariano/Documentos/material-osbi/pdi-Dataservices/listaPersonasDS.ktr</filename>     
+      <service_step>salida</service_step>   
+    </service>
+  </services>
+</slave_config>
