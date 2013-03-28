@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><raiz>	<dato id="1">dato 1		<otroDato atributo="ab">otro dato 1</otroDato>	</dato>	<dato id="2">dato 2		<otroDato atributo="abc">otro dato 2</otroDato>	</dato>	<dato id="3">dato 3		<otroDato atributo="abcd">otro dato 3</otroDato>	</dato>	<dato id="4">dato 4		<otroDato atributo="abcde">otro dato 4</otroDato>	</dato></raiz>
